@@ -39,4 +39,4 @@ This project provided hands on experience with BERT and applying natural languag
 
 ## Contributions
 
-Role: Implemented the data collection, creating the dataset, ML/NLP pipeline, modeling, and evaluation.
+This project was completed in collaboration with one team member. I managed the data, implemented the BERT embedding pipeline, similarity-based recommendation system, and model evaluation. My collaborator contributed to report writing and presentation.
