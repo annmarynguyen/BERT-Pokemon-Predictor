@@ -28,7 +28,7 @@ A custom dataset was created with 31 starter Pokémon and short behavioral descr
 
 ## Key Takeaways
 
-This project provided hands-on experience with BERT and applying natural language processing and machine learning concepts to a reccomendation system. It also highlighted how data quality and feature engineering can influence the effectiveness of recommendation systems.
+This project provided hands on experience with BERT and applying natural language processing and machine learning concepts to a reccomendation system. It also highlighted how data quality and feature engineering can influence the effectiveness of recommendation systems.
 
 ## Future Improvements
 
